@@ -1,0 +1,15 @@
+appopener==1.7
+Eel==0.16.0
+elevenlabs==0.2.21
+Flask==2.3.3
+Flask-Cors==4.0.0
+openai==0.27.8
+psutil==5.9.5
+PyAudio==0.2.13
+python-dotenv==1.0.0
+pyttsx3==2.90
+sounddevice==0.4.6
+SpeechRecognition==3.10.0
+spotipy==2.23.0
+typing_extensions==4.7.1
+virtualenv==20.24.2
