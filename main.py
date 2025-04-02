@@ -28,12 +28,12 @@ executor = ThreadPoolExecutor(max_workers=1)
 load_dotenv( dotenv_path='.evn')
 
 # * Set the following variables in your .env file.
-OPENAI_API_KEY: str = os.getenv("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")
+OPENAI_API_KEY: str = os.getenv("sk-proj-???")
 
 ELEVENLABS_API_KEY: str = os.getenv("ELEVENLABS_API_KEY")
 
 # * Setting the API Keys
-openai.api_key = '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'
+openai.api_key = 'sk-proj-???'
 eleven.set_api_key(ELEVENLABS_API_KEY if ELEVENLABS_API_KEY else "")
 
 from commands import commands as cmd_functions
