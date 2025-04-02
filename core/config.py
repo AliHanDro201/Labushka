@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 load_dotenv(dotenv_path=".env")  # поправь если у тебя .evn или другой файл
 
 # === OpenAI ===
-OPENAI_API_KEY: str = os.getenv("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")
+OPENAI_API_KEY: str = os.getenv("sk-proj-???")
 GPT_MODEL = "gpt-4o-mini"
 GPT_TEMPERATURE = 1.0
 GPT_MAX_TOKENS = 2000
