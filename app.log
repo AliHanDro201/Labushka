@@ -1,0 +1,8 @@
+2025-04-10 15:11:06,023 [INFO] 127.0.0.1 - - [2025-04-10 15:11:06] "GET /main.html HTTP/1.1" 200 1838 0.002970
+2025-04-10 15:11:06,204 [INFO] 127.0.0.1 - - [2025-04-10 15:11:06] "GET /css/style.css HTTP/1.1" 200 3051 0.028922
+2025-04-10 15:11:06,207 [INFO] 127.0.0.1 - - [2025-04-10 15:11:06] "GET /js/script.js HTTP/1.1" 200 21264 0.000999
+2025-04-10 15:11:06,209 [INFO] 127.0.0.1 - - [2025-04-10 15:11:06] "GET /eel.js HTTP/1.1" 200 6065 0.000997
+2025-04-10 15:11:08,018 [INFO] 127.0.0.1 - - [2025-04-10 15:11:08] "GET /favicon.ico HTTP/1.1" 404 882 0.004986
+2025-04-10 15:11:35,388 [INFO] error_code=invalid_api_key error_message='Incorrect API key provided: sk-proj-********************************************************************************************************************************************************eOkA. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-04-10 15:11:41,980 [INFO] error_code=invalid_api_key error_message='Incorrect API key provided: sk-proj-********************************************************************************************************************************************************eOkA. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-04-10 15:11:46,383 [INFO] 127.0.0.1 - - [2025-04-10 15:11:46] "GET /css/style.css HTTP/1.1" 200 3051 0.001514
